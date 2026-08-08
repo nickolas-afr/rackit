@@ -1,5 +1,6 @@
-# Rack
+# Rackit
 
+Built for personal use.
 A native iOS strength-training log, built for one user and one job: **logging a set has to be faster than doing the set.**
 
 Local-only. No network, no account, no sync, no telemetry. Everything lives in a SwiftData store on the phone.
